@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "s1",
+      "images": [
+        {
+          "url": "https://d1wnwqwep8qkqc.cloudfront.net/uploads/stage/stage_image/61831/optimized_large_thumb_stage.jpg"
+        }
+      ],
+      "name": "S1",
+      "tracks": {
+        "total": 245
+      }
+    },
+    {
+      "id": "s2",
+      "images": [
+        {
+          "url": "https://blog.creatopy.com/wp-content/uploads/2019/10/never-jacob-1024x1024.jpg"
+        }
+      ],
+      "name": "S2",
+      "tracks": {
+        "total": 245
+      }
+    },
+    {
+      "id": "s3",
+      "images": [
+        {
+          "url": "https://cdn.dribbble.com/users/278624/screenshots/4413242/playlist_cover2.png"
+        }
+      ],
+      "name": "S3",
+      "tracks": {
+        "total": 245
+      }
+    },
+    {
+      "id": "s4",
+      "images": [
+        {
+          "url": "https://cdn.dribbble.com/users/278624/screenshots/4413241/playlist_cover1.png"
+        }
+      ],
+      "name": "S4",
+      "tracks": {
+        "total": 245
+      }
+    },
+    {
+      "id": "s5",
+      "images": [
+        {
+          "url": "https://mir-s3-cdn-cf.behance.net/projects/404/8cc0c3101484581.Y3JvcCw5NzgsNzY1LDQzLDEzMw.jpg"
+        }
+      ],
+      "name": "S5",
+      "tracks": {
+        "total": 245
+      }
+    },
+    {
+      "id": "s6",
+      "images": [
+        {
+          "url": "https://cdn.dribbble.com/users/1108772/screenshots/9809059/media/a9dafd5e875673444739ad6bb021f905.png?compress=1&resize=400x300"
+        }
+      ],
+      "name": "S6",
+      "tracks": {
+        "total": 245
+      }
+    }
+  ]
+}
